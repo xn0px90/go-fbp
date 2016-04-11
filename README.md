@@ -1,2 +1,2 @@
 # go-fbp
-Flow based Programming in GO 
+Flow Based Programming Examples in GO 
